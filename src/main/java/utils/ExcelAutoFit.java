@@ -91,7 +91,6 @@ public class ExcelAutoFit {
         ExcelAutoFit eat = new ExcelAutoFit();
         List<File> fileList = new ArrayList<File>();
         List<File> fileList2 = new ArrayList<File>();
-
         fileList = eat.getFileList("D:\\test");
 //        System.out.println(fileList);
 //        System.out.println(eat.getFileList("D:\\test").getClass());
